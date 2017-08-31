@@ -2,3 +2,6 @@
 .DS_Store
 /vendor
 /node_modules
+
+# ignore sensitive email config data!!!
+**/php/mail-config.php
